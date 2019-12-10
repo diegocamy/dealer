@@ -6,4 +6,5 @@ API Used: https://www.deckofcardsapi.com/
 
 It connect to the deck of cards api to receive an unique card ID, then it draws cards from the deck and displays each card on the screen.
 
+### Link: https://diegocamy.github.io/dealer/
 
