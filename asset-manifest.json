@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dealer/static/css/main.c49e02bd.chunk.css",
+    "main.js": "/dealer/static/js/main.5370577f.chunk.js",
+    "main.js.map": "/dealer/static/js/main.5370577f.chunk.js.map",
+    "runtime-main.js": "/dealer/static/js/runtime-main.cde2ee44.js",
+    "runtime-main.js.map": "/dealer/static/js/runtime-main.cde2ee44.js.map",
+    "static/js/2.d5411205.chunk.js": "/dealer/static/js/2.d5411205.chunk.js",
+    "static/js/2.d5411205.chunk.js.map": "/dealer/static/js/2.d5411205.chunk.js.map",
+    "index.html": "/dealer/index.html",
+    "precache-manifest.43ec6741b91847418189a46a6fd68c89.js": "/dealer/precache-manifest.43ec6741b91847418189a46a6fd68c89.js",
+    "service-worker.js": "/dealer/service-worker.js",
+    "static/css/main.c49e02bd.chunk.css.map": "/dealer/static/css/main.c49e02bd.chunk.css.map",
+    "static/js/2.d5411205.chunk.js.LICENSE": "/dealer/static/js/2.d5411205.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cde2ee44.js",
+    "static/js/2.d5411205.chunk.js",
+    "static/css/main.c49e02bd.chunk.css",
+    "static/js/main.5370577f.chunk.js"
+  ]
+}
